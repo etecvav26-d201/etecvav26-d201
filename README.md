@@ -18,9 +18,7 @@
   </a>
 </p>
 
----
-
-#### Linguagens utilizadas
+#### Linguagens utilizadas dentro de nossos repositórios:
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
