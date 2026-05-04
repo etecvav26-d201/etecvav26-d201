@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 ## Nossos Repositórios
 
 <p align="center">
@@ -29,8 +27,6 @@
     />
   </a>
 </p>
-
----
 
 ## Linguagens e Tecnologias utilizadas
 
