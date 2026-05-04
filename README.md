@@ -45,12 +45,3 @@
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </div>
-
----
-
-## Sobre o Projeto
-
-<p align="center">
-  Este repositório reúne projetos acadêmicos desenvolvidos em grupo,  
-  com foco em aprendizado prático, colaboração e evolução contínua no curso.
-</p>
