@@ -1,8 +1,6 @@
 #### Sobre nós
 <p align="justify" style="font-style: italic;">
   Grupo formado por alunos do 2² ano de Informática para Internet, na instituição ETEC Vasco Antônio Venchiarutti.
-</p>
-<p>
   Alex dos Santos Apolinario,
   Ana Carolina Bernal Santos,
   Arthur Alexandre Dias Silva,
@@ -32,4 +30,3 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 </div>
----
