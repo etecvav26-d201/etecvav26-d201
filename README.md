@@ -5,17 +5,6 @@
   <b>ETEC Vasco Antônio Venchiarutti</b>
 </p>
 
-<div align="center">
-
-| 👤 Membro | 🔗 GitHub |
-|----------|----------|
-| Alex dos Santos Apolinario | <a href="https://github.com/SEU-USUARIO">Perfil</a> |
-| Ana Carolina Bernal Santos | <a href="https://github.com/SEU-USUARIO">Perfil</a> |
-| Arthur Alexandre Dias Silva | <a href="https://github.com/SEU-USUARIO">Perfil</a> |
-| Helena Bianquini Carriço | <a href="https://github.com/SEU-USUARIO">Perfil</a> |
-
-</div>
-
 ## Nossos Repositórios
 
 <p align="center">
@@ -39,5 +28,17 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</div>
+
+## Membros incluídos no grupo
+<div align="center">
+
+| 👤 Membro | 🔗 GitHub |
+|----------|----------|
+| Alex dos Santos Apolinario | <a href="https://github.com/SEU-USUARIO">Perfil</a> |
+| Ana Carolina Bernal Santos | <a href="https://github.com/SEU-USUARIO">Perfil</a> |
+| Arthur Alexandre Dias Silva | <a href="https://github.com/SEU-USUARIO">Perfil</a> |
+| Helena Bianquini Carriço | <a href="https://github.com/SEU-USUARIO">Perfil</a> |
 
 </div>
