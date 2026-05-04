@@ -5,18 +5,6 @@
   <b>ETEC Vasco Antônio Venchiarutti</b>
 </p>
 
-## Nossos Repositórios
-
-<p align="center">
-  <a href="https://github.com/etecvav26-d201?tab=repositories">
-    <img
-      alt="Repositórios"
-      title="Veja os nossos repositórios"
-      src="https://custom-icon-badges.demolab.com/badge/-Acessar%20Repositórios-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=3380D8"
-    />
-  </a>
-</p>
-
 ## Linguagens e Tecnologias utilizadas
 
 <div align="center">
@@ -30,6 +18,18 @@
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </div>
+
+## Nossos Repositórios
+
+<p align="center">
+  <a href="https://github.com/etecvav26-d201?tab=repositories">
+    <img
+      alt="Repositórios"
+      title="Veja os nossos repositórios"
+      src="https://custom-icon-badges.demolab.com/badge/-Acessar%20Repositórios-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=3380D8"
+    />
+  </a>
+</p>
 
 ## Membros incluídos no grupo
 <div align="center">
