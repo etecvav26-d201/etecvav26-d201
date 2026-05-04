@@ -1,9 +1,3 @@
-<p align="center">
-  Repositório colaborativo desenvolvido por alunos do curso de Informática para Internet  
-</p>
-
----
-
 ## Sobre nós
 
 <p align="center">
@@ -54,9 +48,9 @@
 
 ---
 
-## ✨ Sobre o Projeto
+## Sobre o Projeto
 
 <p align="center">
   Este repositório reúne projetos acadêmicos desenvolvidos em grupo,  
-  com foco em aprendizado prático, colaboração e evolução contínua 🚀
+  com foco em aprendizado prático, colaboração e evolução contínua no curso.
 </p>
