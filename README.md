@@ -1,9 +1,9 @@
 #### Sobre nós
 <p align="justify" style="font-style: italic;">
-  Grupo formado por alunos do 2² ano de Informática para Internet, na instituição ETEC Vasco Antônio Venchiarutti.
-  Alex dos Santos Apolinario,
-  Ana Carolina Bernal Santos,
-  Arthur Alexandre Dias Silva,
+  Grupo formado por alunos do 2² ano de Informática para Internet, na instituição ETEC Vasco Antônio Venchiarutti.<br>
+  Alex dos Santos Apolinario,<br>
+  Ana Carolina Bernal Santos,<br>
+  Arthur Alexandre Dias Silva,<br>
   Helena Bianquini Carriço;
 </p>
 
