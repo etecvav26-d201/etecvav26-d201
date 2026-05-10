@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Logos/logo-foxdevs-horizontal.png" width="900">
-</p>
-
 ## Sobre nós
 
 <p align="center">
@@ -69,6 +65,10 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div><br>
+
+<p align="center">
+  <img src="Logos/logo-foxdevs-horizontal.png" width="900">
+</p>
 
 <p align="center">
 <b>ETEC Vasco Antônio Venchiarutti, 2026</b>
