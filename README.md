@@ -5,14 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/etecvav26-d201?tab=repositories">
-    <img
-      alt="Repositórios"
-      title="Veja os nossos repositórios"
-      src="https://custom-icon-badges.demolab.com/badge/-Acessar%20Repositórios-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=3380D8"
-    />
-  </a>
-
   <a href="https://github.com/Alexsantos16">
       <img
         alt="Alex dos Santos Apolinario"
@@ -42,6 +34,14 @@
       alt="Helena Bianquini Carriço"
       title="Ver perfil de Helena"
       src="https://custom-icon-badges.demolab.com/badge/-Helena%20Carriço-282A36?style=for-the-badge&logo=github&logoColor=white&labelColor=4CAF50"
+    />
+  </a>
+
+  <a href="https://github.com/etecvav26-d201?tab=repositories">
+    <img
+      alt="Repositórios"
+      title="Veja os nossos repositórios"
+      src="https://custom-icon-badges.demolab.com/badge/-Acessar%20Repositórios-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=3380D8"
     />
   </a>
 
