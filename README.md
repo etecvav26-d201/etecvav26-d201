@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Logos/logo-foxdevs-horizontal.png" width="900">
+</p>
+
 ## Sobre nós
 
 <p align="center">
