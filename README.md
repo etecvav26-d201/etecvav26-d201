@@ -1,6 +1,6 @@
 ## Sobre nós
 
-<p align="center">
+<p>
   Grupo formado por alunos do 2º ano de Informática para Internet para portifólio de matérias desenvolvidas durante aula <br>
 </p>
 
