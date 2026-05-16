@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=&color=0FA78F&section=header&reversal=false" width=100%/>
+
 ## Sobre nós
 
 <p>
@@ -81,3 +83,5 @@
 <p align="center">
 <b>ETEC Vasco Antônio Venchiarutti, 2026</b>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=&color=0FA78F&section=footer&reversal=false" width="100%"/>
