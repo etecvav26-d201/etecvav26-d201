@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=&color=0FA78F&section=header&reversal=false" width=100%/>
-
-## Sobre nós
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=&color=0FA78F&text=Sobre%20Nos&fontColor=f5f5f5&textBg=false&fontAlign=51&fontAlignY=33" width=100%/>
 
 <p>
   Grupo formado por alunos do 2º ano de Informática para Internet para portifólio de matérias desenvolvidas durante aula <br>
@@ -56,7 +54,7 @@
   </a>
 </p>
 
-## Linguagens e Tecnologias utilizadas
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=&color=0FA78F&text=Tecnologias%20Utilizadas&fontColor=f5f5f5&textBg=false&fontAlign=51&fontAlignY=33" width=100%/>
 
 <p align="center">
 
@@ -80,8 +78,4 @@
   <img src="Logos/logo-foxdevs-horizontal.png" width="900">
 </p>
 
-<p align="center">
-<b>ETEC Vasco Antônio Venchiarutti, 2026</b>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=&color=0FA78F&section=footer&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=&color=0FA78F&text=ETEC%20Vasco%20Antônio%20Venchiarutti,%202026&fontColor=f5f5f5&textBg=false&fontAlign=51&fontAlignY=76&fontSize=35&section=footer" width="100%"/>
