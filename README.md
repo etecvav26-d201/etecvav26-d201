@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=&color=0FA78F&text=Sobre%20Nos&fontColor=f5f5f5&textBg=false&fontAlign=51&fontAlignY=33" width=100%/>
 
-<p>
+<p align="center">
   Grupo formado por alunos do 2º ano de Informática para Internet para portifólio de matérias desenvolvidas durante aula <br>
 </p>
 
