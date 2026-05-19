@@ -72,12 +72,6 @@
 
 <div align="center">
 
-  <img height="180em" src="https://streak-stats.demolab.com/?user=etecvav26-d201&theme=dark&hide_border=false"/>
-
-</div><br>
-
-<div align="center">
-
   <img src="https://github-profile-trophy.vercel.app/?username=etecvav26-d201&theme=algolia&no-frame=true&no-bg=false&margin-w=4" width="100%"/>
 
 </div>
