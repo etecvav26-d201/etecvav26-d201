@@ -9,28 +9,44 @@
 </h1>
 
 <p align="center">
-  <a href="Alex dos Santos Apolinario">
-    <img src="https://img.shields.io/badge/ALEX_APOLINARIO-3B82F6?style=for-the-badge"/>
+  <a href="https://github.com/Alexsantos16">
+      <img
+        alt="Alex dos Santos Apolinario"
+        title="Ver perfil de Alex"
+        src="https://custom-icon-badges.demolab.com/badge/-Alex%20Apolinario-282A36?style=for-the-badge&logo=github&logoColor=white&labelColor=1F6FEB"
+      />
   </a>
-  
+
   <a href="https://github.com/AnaCarolinaBH">
-    <img src="https://img.shields.io/badge/ANA_CAROLINA-EC4899?style=for-the-badge" />
+    <img
+      alt="Ana Carolina Bernal Santos"
+      title="Ver perfil de Ana Carolina"
+      src="https://custom-icon-badges.demolab.com/badge/-Ana%20Carolina-282A36?style=for-the-badge&logo=github&logoColor=white&labelColor=E91E63"
+    />
   </a>
-  
+
   <a href="https://github.com/arthurdias010">
-    <img src="https://img.shields.io/badge/ARTHUR_DIAS-F59E0B?style=for-the-badge" />
+    <img
+      alt="Arthur Alexandre Dias Silva"
+      title="Ver perfil de Arthur"
+      src="https://custom-icon-badges.demolab.com/badge/-Arthur%20Dias-282A36?style=for-the-badge&logo=github&logoColor=white&labelColor=FF9800"
+    />
   </a>
-  
+
   <a href="https://github.com/heleninha666">
-    <img src="https://img.shields.io/badge/HELENA_CARRIÇO-22C55E?style=for-the-badge" />
+    <img
+      alt="Helena Bianquini Carriço"
+      title="Ver perfil de Helena"
+      src="https://custom-icon-badges.demolab.com/badge/-Helena%20Carriço-282A36?style=for-the-badge&logo=github&logoColor=white&labelColor=4CAF50"
+    />
   </a>
-  
-  <a href="https://github.com/etecvav26-d201?tab=repositories">
-    <img src="https://img.shields.io/badge/📁_ACESSAR_REPOSITÓRIOS-14B8A6?style=for-the-badge" />
-  </a>
-  
+
   <a href="https://github.com/ronildo-ferreira">
-    <img src="https://img.shields.io/badge/PROFESSORES_ORIENTADORES-8B5CF6?style=for-the-badge" />
+    <img
+      alt="Professores Orientadores"
+      title="Conheça nossos professores orientadores"
+      src="https://custom-icon-badges.demolab.com/badge/-Professores%20Orientadores-282A36?style=for-the-badge&logo=person&logoColor=white&labelColor=6A1B9A"
+    />
   </a>
 </p>
 
