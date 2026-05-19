@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="Logos/logo-foxdevs-horizontal.png" width="100%">
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=&color=0FA78F&text=Sobre%20Nos&fontColor=f5f5f5&textBg=false&fontAlign=51&fontAlignY=33" width=100%/>
 
-<p align="center">
+<h1 align="center">
   Grupo formado por alunos do 2º ano de Informática para Internet para portifólio de matérias desenvolvidas durante aula <br>
-</p>
+</h1>
 
 <p align="center">
   <a href="Alex dos Santos Apolinario">
@@ -49,10 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" />
   
 </p><br>
-
-<p align="center">
-  <img src="Logos/logo-foxdevs-horizontal.png" width="900">
-</p>
 
 <div align="center">
 
