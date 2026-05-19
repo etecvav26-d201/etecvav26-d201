@@ -54,4 +54,18 @@
   <img src="Logos/logo-foxdevs-horizontal.png" width="900">
 </p>
 
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=etecvav26-d201&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
+
+  <img height="180em" src="https://streak-stats.demolab.com/?user=etecvav26-d201&theme=dark&hide_border=false"/>
+
+</div><br>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=etecvav26-d201&theme=algolia&no-frame=true&no-bg=false&margin-w=4" />
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=&color=0FA78F&text=ETEC%20Vasco%20Antônio%20Venchiarutti,%202026&fontColor=f5f5f5&textBg=false&fontAlign=51&fontAlignY=76&fontSize=35&section=footer" width="100%"/>
